@@ -4,4 +4,4 @@ simple read me file
 
 adding more text to the Readme
 
-testing git difftool
+modifying the uncommited file from the branch
