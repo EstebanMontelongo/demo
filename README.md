@@ -2,5 +2,4 @@
 
 Testing the rebase feature!
 
-This will cause a conflict in Local and Remote
-but will resolve with p4merge
+Created an organization and transfered a repo
