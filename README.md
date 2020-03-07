@@ -2,4 +2,4 @@
 
 Testing the rebase feature!
 
-This will cause a conflict
+This will cause a conflict Remote
